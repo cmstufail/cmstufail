@@ -45,3 +45,53 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
+
+---
+# Auction Gallery
+
+![Auction Gallery Screenshot](https://i.ibb.co.com/SDQybctw/auction-gallery.png)
+
+## Brief introduction of the project
+
+Auction Gallery s a modern online auction platform that allows users to bid on various products or works of art. It is a framework built using React. Single-Page Application (SPA) And its UI is designed with **Tailwind CSS** and **DaisyUI**. This platform ensures a simple and responsive experience for users.
+
+## Key Features (Core Features)
+
+* **Dynamic UI:** A dynamic and responsive user interface has been created using React's powerful component-based architecture.
+* **Attractive design:** A clean, modern, and user-friendly design is ensured using Tailwind CSS and DaisyUI.
+* **Component Reusability:** The development process is accelerated by using DaisyUI's ready-made components.
+
+## Technologies Used
+
+* **Frontend:**
+    * **React:** The main framework for building applications.
+    * **JavaScript:** Used to manage the logic of the project.
+    * **Tailwind CSS:** Customizable utility-first CSS framework.
+    * **DaisyUI:** A component library based on Tailwind CSS.
+
+## Guidelines for running projects locally
+
+If you want to run this project on your computer, follow the steps below:
+
+1.  First clone the repository:
+    ```bash
+    git clone [https://github.com/your-username/auction-gallery.git](https://github.com/your-username/auction-gallery.git)
+    ```
+2. Go to the project directory:
+    ```bash
+    cd auction-gallery
+    ```
+3.  Install the required packages or dependencies:
+    ```bash
+    npm install
+    ```
+4.  Launch the project:
+    ```bash
+    npm run dev
+    ```
+5.  Visit `http://localhost:5173` (or whatever port you want to use) in your browser.
+
+## Live Project & Resources
+
+* **Live Project Link:** [Enter your project's live link here]
+* **Dependency List:** All required packages are mentioned in the `package.json` file.
