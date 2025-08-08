@@ -151,3 +151,247 @@ If you want to run this project on your computer, follow the steps below:
 
 * **Live Project Link:** [https://docktalkbd.netlify.app]
 * **Dependency List:** All required packages are mentioned in the `package.json` file.
+---
+
+App Orbit - A full-fledged e-commerce application
+
+![App orbit Screenshot](https://i.ibb.co.com/bj0BNypY/Screenshot-122.png)
+Brief introduction of the project
+App Orbit is a full-fledged e-commerce application that provides a modern and easy shopping experience for customers. This project is divided into two main parts:
+
+Client-side (Frontend): A dynamic user interface built with React and Vite.
+
+Server-side (Backend): A powerful RESTful API built with Node.js and Express.js.
+
+This application has all the main features of a fully functional e-commerce platform, including a secure payment system (Stripe) and user authentication (Firebase).
+
+Client-side: Description and guidelines
+Key Features (Core Features)
+Payment Integration: Secure payment system using Stripe.
+
+Dynamic UI: A fluid and animated user interface using React and Framer Motion.
+
+Real-time data: Data is efficiently handled from the server using Tanstack Query.
+
+Authentication: User login and registration system using Firebase.
+
+Technologies Used
+Frontend: React, Vite, Tailwind CSS, DaisyUI
+
+API Calls: Axios
+
+Payment: @stripe/react-stripe-js
+
+State Management: @tanstack/react-query
+
+Authentication: Firebase
+
+Animations: framer-motion, lottie-react
+
+Forms: react-hook-form
+
+UI/UX: react-hot-toast, sweetalert2, swiper, react-icons
+
+Guidelines for running projects locally
+First clone this repository:
+
+Bash
+
+git clone https://github.com/your-username/app-orbit-client.git
+Go to the project folder:
+
+Bash
+
+cd app-orbit-client
+Install the required dependencies:
+
+Bash
+
+npm install
+Create a .env.local file and add your Firebase and Stripe public keys here.
+
+Launch the project:
+
+Bash
+
+npm run dev
+Server-side: Description and guidelines
+Key Features (Core Features)
+RESTful API: Various API endpoints for exchanging data with the frontend.
+
+Database Management: Data storage, update, and deletion using MongoDB and Mongoose.
+
+Payment Handling: Secure payment processing using Stripe.
+
+Authentication and Authorization: API requests are secured using jsonwebtoken.
+
+Security: The API is secured using CORS, Helmet, and Cookie-Parser.
+
+Technologies Used
+Server Framework: Node.js, Express.js
+
+Database: MongoDB, Mongoose
+
+Authentication: jsonwebtoken, firebase-admin
+
+Payment: stripe
+
+Security: helmet, cors, express-rate-limit
+
+Environment Variables: dotenv
+
+Guidelines for running projects locally
+First clone this repository:
+
+Bash
+
+git clone https://github.com/your-username/app-orbit-server.git
+Go to the project folder:
+
+Bash
+
+cd app-orbit-server
+Install the required dependencies:
+
+Bash
+
+npm install
+Create a .env file and add your database URI, Stripe secret key, and JWT secret here.
+
+Launch the project:
+
+Bash
+
+npm start
+Live projects and other resources
+
+Live Project: [Put your project's live link here]
+
+Client-side repository: [insert client-side repository link here]
+
+Server-side repository: [insert link to server-side repository here]
+
+
+
+
+
+
+Create a Readme.md by combining the client side and server site.
+
+
+App Orbit - A full-fledged e-commerce application
+
+Brief introduction of the project
+App Orbit is a full-fledged e-commerce application that provides a modern and easy shopping experience for customers. This project is divided into two main parts:
+
+Client-side (Frontend): A dynamic user interface built with React and Vite.
+
+Server-side (Backend): A powerful RESTful API built with Node.js and Express.js.
+
+This application has all the main features of a fully functional e-commerce platform, including a secure payment system (Stripe) and user authentication (Firebase).
+
+
+Client-side: Description and guidelines
+Key Features (Core Features)
+Payment Integration: Secure payment system using Stripe.
+
+Dynamic UI: A fluid and animated user interface using React and Framer Motion.
+
+Real-time data: Data is efficiently handled from the server using Tanstack Query.
+
+Authentication: User login and registration system using Firebase.
+
+Technologies Used
+Frontend: React, Vite, Tailwind CSS, DaisyUI
+
+API Calls: Axios
+
+Payment: @stripe/react-stripe-js
+
+State Management: @tanstack/react-query
+
+Authentication: Firebase
+
+Animations: framer-motion, lottie-react
+
+Forms: react-hook-form
+
+UI/UX: react-hot-toast, sweetalert2, swiper, react-icons
+
+Guidelines for running projects locally
+First clone this repository:
+
+Bash
+
+git clone https://github.com/your-username/app-orbit-client.git
+Go to the project folder:
+Bash
+
+cd app-orbit-client
+Install the required dependencies:
+
+Bash
+
+npm install
+Create a .env.local file and add your Firebase and Stripe public keys here.
+
+Launch the project:
+
+Bash
+
+npm run dev
+Server-side: Description and guidelines
+Key Features (Core Features)
+RESTful API: Various API endpoints for exchanging data with the frontend.
+
+Database Management: Data storage, update, and deletion using MongoDB and Mongoose.
+
+Payment Handling: Secure payment processing using Stripe.
+
+Authentication and Authorization: API requests are secured using jsonwebtoken.
+
+Security: The API is secured using CORS, Helmet, and Cookie-Parser.
+
+Technologies Used
+Server Framework: Node.js, Express.js
+
+Database: MongoDB, Mongoose
+
+Authentication: jsonwebtoken, firebase-admin
+
+Payment: stripe
+
+Security: helmet, cors, express-rate-limit
+
+Environment Variables: dotenv
+
+Guidelines for running projects locally
+First clone this repository:
+
+Bash
+
+git clone https://github.com/your-username/app-orbit-server.git
+
+Go to the project folder:
+
+Bash
+
+cd app-orbit-server
+
+Install the required dependencies:
+
+Bash
+
+npm install
+Create a .env file and add your database URI, Stripe secret key, and JWT secret here.
+
+Launch the project:
+Bash
+
+npm start
+Live projects and other resources
+Live Project: [Put your project's live link here]
+
+Client-side repository: [insert client-side repository link here]
+
+Server-side repository: []
