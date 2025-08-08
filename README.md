@@ -31,8 +31,13 @@
 
 ---
 
+<!-- recent stats -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cmstufail&theme=dark&hide_border=true" alt="cmstufail's streak stats" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cmstufail&theme=github&hide_border=true" alt="cmstufail's activity graph" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cmstufail&theme=light&hide_border=true" alt="cmstufail's streak stats" />
 </p>
 
 ---
