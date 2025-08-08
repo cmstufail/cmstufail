@@ -39,17 +39,36 @@
 
 ---
 
-## 📬 Reach Me Out
+<h2>📬 Reach Me Out</h2>
 
-Feel free to contact me via:
+<a href="mailto:youremail@example.com" style="
+  background-color:#6b46c1; 
+  color:white; 
+  padding:8px 16px; 
+  border-radius:6px; 
+  text-decoration:none; 
+  font-weight:bold; 
+  margin-right:10px;
+">📧 Email Me</a>
 
-| Contact Method | Link |
-| -------------- | ---- |
-| 📧 Email       | [youremail@example.com](mailto:youremail@example.com) |
-| 🔗 LinkedIn    | [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile) |
-| 🐱 GitHub      | [github.com/yourusername](https://github.com/yourusername) |
+<a href="https://linkedin.com/in/yourprofile" target="_blank" style="
+  background-color:#6b46c1; 
+  color:white; 
+  padding:8px 16px; 
+  border-radius:6px; 
+  text-decoration:none; 
+  font-weight:bold; 
+  margin-right:10px;
+">🔗 LinkedIn</a>
 
----
+<a href="https://github.com/yourusername" target="_blank" style="
+  background-color:#6b46c1; 
+  color:white; 
+  padding:8px 16px; 
+  border-radius:6px; 
+  text-decoration:none; 
+  font-weight:bold;
+">🐱 GitHub</a>
 
 <!-- Top Languages -->
 <h2>🌐 Top Languages</h2>
