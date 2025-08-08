@@ -41,9 +41,15 @@
 
 ## 📬 Reach Me Out
 
-| 📧 Email | 🔗 LinkedIn | 🐱 GitHub |
-| -------- | ----------- | --------- |
-| [youremail@example.com](mailto:youremail@example.com) | [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile) | [github.com/yourusername](https://github.com/yourusername) |
+Feel free to contact me via:
+
+| Contact Method | Link |
+| -------------- | ---- |
+| 📧 Email       | [youremail@example.com](mailto:youremail@example.com) |
+| 🔗 LinkedIn    | [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile) |
+| 🐱 GitHub      | [github.com/yourusername](https://github.com/yourusername) |
+
+---
 
 <!-- Top Languages -->
 <h2>🌐 Top Languages</h2>
