@@ -1,9 +1,6 @@
 
 <!-- Banner Image (Replace URL) -->
-<img src="https://via.placeholder.com/1200x400" width="100%" alt="Banner">
-
-<h1 align="center">Hi 👋, I'm [Your Name]</h1>
-<h3 align="center">A passionate [Your Role] from [Your Location]</h3>
+<img src="https://raw.githubusercontent.com/cmstufail/cmstufail/main/banner.png" width="100%" alt="Banner">
 
 ---
 
