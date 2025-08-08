@@ -39,36 +39,17 @@
 
 ---
 
-<h2>📬 Reach Me Out</h2>
+<!-- Reach Me Out -->
+<p align="center">
+  <a href="mailto:cmstufail@gmail.com">
+    <img src="https://img.shields.io/badge/Email-cmstufail@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/cmstufail" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
-<a href="mailto:youremail@example.com" style="
-  background-color:#6b46c1; 
-  color:white; 
-  padding:8px 16px; 
-  border-radius:6px; 
-  text-decoration:none; 
-  font-weight:bold; 
-  margin-right:10px;
-">📧 Email Me</a>
-
-<a href="https://linkedin.com/in/yourprofile" target="_blank" style="
-  background-color:#6b46c1; 
-  color:white; 
-  padding:8px 16px; 
-  border-radius:6px; 
-  text-decoration:none; 
-  font-weight:bold; 
-  margin-right:10px;
-">🔗 LinkedIn</a>
-
-<a href="https://github.com/yourusername" target="_blank" style="
-  background-color:#6b46c1; 
-  color:white; 
-  padding:8px 16px; 
-  border-radius:6px; 
-  text-decoration:none; 
-  font-weight:bold;
-">🐱 GitHub</a>
+---
 
 <!-- Top Languages -->
 <h2>🌐 Top Languages</h2>
