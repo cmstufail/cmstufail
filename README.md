@@ -1,12 +1,6 @@
 <!-- Profile Header -->
 <img width="2000" height="600" alt="Image" src="https://github.com/user-attachments/assets/6bdd33b4-66ec-4275-92ea-f1600021daa8" style="border-radius: 20px;" />
 
----
-
-
-<!-- Profile Header -->
-<h1 align="center">Hi 👋, I'm Tufail Ahmed</h1>
-<h3 align="center">Frontend & Full-Stack Developer | MERN Stack Enthusiast</h3>
 
 ---
 
@@ -21,6 +15,13 @@
 </p>
 
 ---
+
+<!-- GitHub Stats -->
+<h2>📊 GitHub Stats</h2>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=cmstufail&show_icons=true&theme=radical" alt="GitHub Stats" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cmstufail&theme=radical" alt="GitHub Streak" height="150" />
+</p>
 
 <!-- Skills -->
 <h2>💻 Skills & Technologies</h2>
