@@ -44,9 +44,8 @@
 
 ---
 
-<! -- Current Focus -->
+<!-- Current Focus -->
 <h4>📌 Current Focus</h4>
-
 <p>🌱 Learning: I’m actively exploring advanced Next.js features to build fast and scalable web applications.</p>
 <p>🤝 Collaborating: I’m eager to contribute to open-source projects and work with a collaborative team.</p>
 <p>💡 Sharing: I'm passionate about helping people on their web development journey through guidance and knowledge-sharing.</p>
