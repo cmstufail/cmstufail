@@ -43,14 +43,14 @@
 </p>
 
 ---
+📌 My Current Focus
+🌱 Learning: I’m actively exploring advanced Next.js features to build fast and scalable web applications.
 
-<h4>📊 Current Overview</h4>
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=https://github.com/cmstufail&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=https://github.com/cmstufail&theme=radical" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/cmstufail&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+🤝 Collaborating: I’m eager to contribute to open-source projects and work with a collaborative team.
 
+💡 Sharing: I'm passionate about helping people on their web development journey through guidance and knowledge-sharing.
+
+✨ Fun Fact: When I'm not coding, I enjoy making complex origami and I can speak 5 languages.
 ---
 
 <!-- Contact & Social Links -->
