@@ -32,7 +32,7 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cmstufail&theme=react-dark&hide_border=true" alt="cmstufail's activity graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cmstufail&theme=dark&hide_border=true" alt="cmstufail's streak stats" />
 </p>
 
 ---
