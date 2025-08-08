@@ -390,8 +390,8 @@ Bash
 
 npm start
 Live projects and other resources
-Live Project: []
+Live Project: [https://app-orbit.web.app/]
 
-Client-side repository: []
+Client-side repository: [https://github.com/cmstufail/app-orbit-client]
 
-Server-side repository: []
+Server-side repository: [https://github.com/cmstufail/app-orbit-server]
