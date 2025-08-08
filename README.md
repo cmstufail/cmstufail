@@ -1,30 +1,40 @@
-
+<!-- Profile Header -->
 <h1 align="center">Hi 👋, I'm Tufail Ahmed</h1>
-<h3 align="center">Web developer</h3>
+<h3 align="center">A Passionate Full Stack Web Developer from Bangladesh</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=cmstufail&label=Profile%20views&color=0e75b6&style=flat" alt="cmstufail" /> </p>
+---
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cmstufail" alt="cmstufail" /></a> </p>
-
-- 🌱 I’m currently learning **python**
-
-- 💬 Ask me about **react**
-
-- 📫 How to reach me **cmstufail@gmail.com**
-
-- ⚡ Fun fact **I think I am funny**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/cmstufail" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="cmstufail" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/cmstufail" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cmstufail" height="30" width="40" /></a>
-<a href="https://instagram.com/cmstufail" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="cmstufail" height="30" width="40" /></a>
-<a href="https://www.behance.net/cmstufail" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="cmstufail" height="30" width="40" /></a>
+<!-- Badges -->
+<p align="center">
+  <a href="mailto:cmstufail@gmail.com"><img src="https://img.shields.io/badge/Email-cmstufail%40gmail.com-red?style=flat&logo=gmail" /></a>
+  <a href="https://www.linkedin.com/in/cmstufail"><img src="https://img.shields.io/badge/LinkedIn-Tufail%20Ahmed-blue?style=flat&logo=linkedin" /></a>
+  <a href="https://github.com/cmstufail"><img src="https://img.shields.io/badge/GitHub-cmstufail-black?style=flat&logo=github" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cmstufail&show_icons=true&locale=en&layout=compact" alt="cmstufail" /></p>
+## 🚀 About Me
+- 🔭 I’m currently working on **Full Stack MERN Projects**
+- 🌱 I’m currently learning **Next.js, TypeScript, and Cloud Deployments**
+- 💬 Ask me about **React, Node.js, Express, MongoDB, Firebase**
+- 📫 Reach me at: **[cmstufail@gmail.com](mailto:cmstufail@gmail.com)**
+- ⚡ Fun fact: *I debug faster when coffee is near ☕*
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cmstufail&show_icons=true&locale=en" alt="cmstufail" /></p>
+---
+
+## 🛠️ Languages & Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nextjs,nodejs,express,mongodb,firebase,git,github,vscode,postman" />
+</p>
+
+---
+
+## 📌 Featured Projects
+
+### 🌱 Plant Care Tracker  
+_A full-stack, mobile-responsive plant care tracking app with authentication, CRUD operations, sorting, and theme toggle._
+```bash
+git clone https://github.com/cmstufail/plant-care-tracker
+cd plant-care-tracker
+npm install && npm start
