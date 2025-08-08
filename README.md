@@ -31,6 +31,12 @@
 
 ---
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cmstufail&theme=react-dark&hide_border=true" alt="cmstufail's activity graph" />
+</p>
+
+---
+
 <!-- Top Languages -->
 <h2>🌐 Top Languages</h2>
 <p align="center">
