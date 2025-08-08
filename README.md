@@ -12,21 +12,17 @@
 
 ---
 
-<!-- Reach me out -->
-<h2 align="center">📬 Reach me out</h2>
 <p align="center">
   <a href="https://www.linkedin.com/in/cmstufail" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" width="40" height="40" />
   </a>
   <a href="https://www.facebook.com/yourfacebookprofile" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Facebook-Profile-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/facebook.svg" alt="Facebook" width="40" height="40" />
   </a>
   <a href="https://twitter.com/yourtwitterhandle" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Twitter-Profile-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/twitter.svg" alt="Twitter" width="40" height="40" />
   </a>
 </p>
-
-
 
 ---
 
