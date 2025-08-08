@@ -1,40 +1,55 @@
 <!-- Profile Header -->
 <h1 align="center">Hi 👋, I'm Tufail Ahmed</h1>
-<h3 align="center">A Passionate Full Stack Web Developer from Bangladesh</h3>
+<h3 align="center">Frontend & Full-Stack Developer | MERN Stack Enthusiast</h3>
 
 ---
 
-<!-- Badges -->
+<!-- Contact & Social Links -->
 <p align="center">
-  <a href="mailto:cmstufail@gmail.com"><img src="https://img.shields.io/badge/Email-cmstufail%40gmail.com-red?style=flat&logo=gmail" /></a>
-  <a href="https://www.linkedin.com/in/cmstufail"><img src="https://img.shields.io/badge/LinkedIn-Tufail%20Ahmed-blue?style=flat&logo=linkedin" /></a>
-  <a href="https://github.com/cmstufail"><img src="https://img.shields.io/badge/GitHub-cmstufail-black?style=flat&logo=github" /></a>
+  <a href="mailto:cmstufail@gmail.com">
+    <img src="https://img.shields.io/badge/Email-cmstufail@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/cmstufail" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-## 🚀 About Me
-- 🔭 I’m currently working on **Full Stack MERN Projects**
-- 🌱 I’m currently learning **Next.js, TypeScript, and Cloud Deployments**
-- 💬 Ask me about **React, Node.js, Express, MongoDB, Firebase**
-- 📫 Reach me at: **[cmstufail@gmail.com](mailto:cmstufail@gmail.com)**
-- ⚡ Fun fact: *I debug faster when coffee is near ☕*
-
----
-
-## 🛠️ Languages & Tools
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nextjs,nodejs,express,mongodb,firebase,git,github,vscode,postman" />
+<!-- Skills -->
+<h2>💻 Skills & Technologies</h2>
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" />
 </p>
 
 ---
 
-## 📌 Featured Projects
+<!-- GitHub Stats -->
+<h2>📊 GitHub Stats</h2>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=cmstufail&show_icons=true&theme=radical" alt="GitHub Stats" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cmstufail&theme=radical" alt="GitHub Streak" height="150" />
+</p>
 
-### 🌱 Plant Care Tracker  
-_A full-stack, mobile-responsive plant care tracking app with authentication, CRUD operations, sorting, and theme toggle._
-```bash
-git clone https://github.com/cmstufail/plant-care-tracker
-cd plant-care-tracker
-npm install && npm start
+---
+
+<!-- Top Languages -->
+<h2>🌐 Top Languages</h2>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cmstufail&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+<!-- Footer -->
+<p align="center">
+  🚀 Passionate about building scalable web applications and learning new technologies every day.
+</p>
