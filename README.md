@@ -13,15 +13,19 @@
 ---
 
 <!-- Reach me out -->
-<h2>📬 Reach me out</h2>
+<h2 align="center">📬 Reach me out</h2>
 <p align="center">
-  <a href="mailto:cmstufail@gmail.com">
-    <img src="https://img.shields.io/badge/Email-cmstufail@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="https://www.linkedin.com/in/cmstufail" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://www.linkedin.com/in/cmstufail" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.facebook.com/yourfacebookprofile" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Facebook-Profile-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+  <a href="https://twitter.com/yourtwitterhandle" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Twitter-Profile-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
 </p>
+
 
 ---
 
