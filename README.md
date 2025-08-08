@@ -4,6 +4,30 @@
 
 ---
 
+<!-- Current Stats -->
+<h4>📈 Current Stats</h4>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cmstufail&theme=radical" alt="GitHub Streak" height="150" />
+</p>
+
+---
+
+<!-- Reach me out-->
+<h4>📬 Reach me out</h4>
+<p align="center">
+ <a href="https://www.linkedin.com/in/cmstufail" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.facebook.com/yourfacebookprofile" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+  <a href="https://twitter.com/yourtwitterhandle" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+</p>
+
+---
+
 <!-- Contact & Social Links -->
 <p align="center">
   <a href="mailto:cmstufail@gmail.com">
@@ -31,13 +55,6 @@
 
 ---
 
-<!-- Current Stats -->
-<h4>📈 Current Stats</h4>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cmstufail&theme=radical" alt="GitHub Streak" height="150" />
-</p>
----
-
 <!-- Top Languages -->
 <h4>🌐 Top Languages</h4>
 <p align="center">
@@ -46,21 +63,7 @@
 
 
 ---
-<!-- Reach me out-->
-<h4>📬 Reach me out</h4>
-<p align="center">
- <a href="https://www.linkedin.com/in/cmstufail" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://www.facebook.com/yourfacebookprofile" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-  </a>
-  <a href="https://twitter.com/yourtwitterhandle" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-</p>
 
----
 
 <!-- Footer -->
 <p align="center">
