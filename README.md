@@ -149,5 +149,5 @@ If you want to run this project on your computer, follow the steps below:
 
 ## Live Project & Resources
 
-* **Live Project Link:** [https://docktalkbd.netlify.app/]
+* **Live Project Link:** [https://docktalkbd.netlify.app]
 * **Dependency List:** All required packages are mentioned in the `package.json` file.
