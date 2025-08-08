@@ -5,14 +5,14 @@
 
 
 <!-- Current Stats -->
-<h4>📈 Current Stats</h2>
+<h4>📈 Current Stats</h4>
 <p>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=cmstufail&theme=radical" alt="GitHub Streak" height="150" />
 </p>
 
 ---
 <!-- Reach me out-->
-<h4>📬 Reach me out</h2>
+<h4>📬 Reach me out</h4>
 <p align="center">
  <a href="https://www.linkedin.com/in/cmstufail" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -29,7 +29,7 @@
 ---
 
 <!-- Skills -->
-<h4>💻 Technologies that I know </h2>
+<h4>💻 Technologies that I know </h4>
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -45,7 +45,7 @@
 ---
 
 <!-- Top Languages -->
-<h3>🌐 Top Languages</h2>
+<h4>🌐 Top Languages</h4>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cmstufail&layout=compact&theme=radical" alt="Top Languages" />
 </p>
