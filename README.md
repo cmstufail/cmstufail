@@ -34,13 +34,7 @@
 <!-- recent stats -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=cmstufail&theme=github&hide=stars,prs,issues,contribs&custom_title=Total%20Contributions" alt="cmstufail's total contributions" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=cmstufail&theme=github&hide=stars,prs,issues,contribs&custom_title=Longest%20Streak" alt="cmstufail's longest streak" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=cmstufail&theme=github&hide=stars,prs,issues,contribs&custom_title=Current%20Streak" alt="cmstufail's current streak" />
 </p>
 ---
