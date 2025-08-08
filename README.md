@@ -18,9 +18,13 @@
 
 ## 📊 Current Stats
 
-| Followers | Projects | Satisfaction |
-| --------- | -------- | ------------ |
-| 1.2K      | 350+     | 100%         |
+| 📈 Metric       | 💡 Value          |
+|-----------------|-------------------|
+| 👥 **Followers**    | 1,200             |
+| 🛠️ **Projects**     | 350+              |
+| ⭐ **Satisfaction** | 100%              |
+| ⏳ **Experience**   | 5 Years           |
+
 
 ---
 
