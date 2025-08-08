@@ -14,17 +14,21 @@
 
 <!-- Reach me out -->
 <h2 align="center">📬 Reach me out</h2>
-<p align="center">
-  <a href="https://www.linkedin.com/in/cmstufail" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+<p align="center" style="display: flex; justify-content: center; gap: 12px;">
+  <a href="https://www.linkedin.com/in/cmstufail" target="_blank" rel="noopener noreferrer" style="display: inline-flex; align-items: center; background-color: #0A66C2; color: white; padding: 8px 16px; border-radius: 6px; text-decoration: none; font-weight: 600; font-family: Arial, sans-serif;">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" width="20" height="20" style="margin-right: 8px;" />
+    LinkedIn
   </a>
-  <a href="https://www.facebook.com/yourfacebookprofile" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Facebook-Profile-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  <a href="https://www.facebook.com/yourfacebookprofile" target="_blank" rel="noopener noreferrer" style="display: inline-flex; align-items: center; background-color: #1877F2; color: white; padding: 8px 16px; border-radius: 6px; text-decoration: none; font-weight: 600; font-family: Arial, sans-serif;">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/facebook.svg" alt="Facebook" width="20" height="20" style="margin-right: 8px;" />
+    Facebook
   </a>
-  <a href="https://twitter.com/yourtwitterhandle" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Twitter-Profile-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  <a href="https://twitter.com/yourtwitterhandle" target="_blank" rel="noopener noreferrer" style="display: inline-flex; align-items: center; background-color: #1DA1F2; color: white; padding: 8px 16px; border-radius: 6px; text-decoration: none; font-weight: 600; font-family: Arial, sans-serif;">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/twitter.svg" alt="Twitter" width="20" height="20" style="margin-right: 8px;" />
+    Twitter
   </a>
 </p>
+
 
 ---
 
