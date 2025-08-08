@@ -1,6 +1,7 @@
 <!-- Profile Header -->
-<h1 align="center">Hi 👋, I'm Tufail Ahmed</h1>
-<h3 align="center">Frontend & Full-Stack Developer | MERN Stack Enthusiast</h3>
+<p align="center">
+  <img src="./path/to/banner-image.png" alt="Banner" />
+</p>
 
 ---
 
