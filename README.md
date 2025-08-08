@@ -131,7 +131,7 @@ If you want to run this project on your computer, follow the steps below:
 
 1.  First clone the repository:
     ```bash
-    git clone [https://github.com/your-username/medical-appointment-booking-application.git](https://github.com/your-username/medical-appointment-booking-application.git)
+    git clone []
     ```
 2.  Go to the project directory:
     ```bash
