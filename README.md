@@ -32,7 +32,7 @@
 ---
 
 <!-- Current Stats -->
-<h2>📊 Current Stats</h2>
+<h2>📈 Current Stats</h2>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=cmstufail&theme=radical" alt="GitHub Streak" height="150" />
 </p>
