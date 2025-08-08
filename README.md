@@ -1,6 +1,6 @@
 
 <!-- Banner Image (Replace URL) -->
-<img src="https://raw.githubusercontent.com/cmstufail/cmstufail/main/banner.png" width="100%" alt="Banner">
+<img src="https://raw.githubusercontent.com/cmstufail/cmstufail/ff35c2165293db198a8eb70062b711f1df7f7d02/Purple%20Abstract%20Graphic%20Design%20LinkedIn%20Article%20Cover%20Image%20(4).png" alt="My Profile Banner" width="100%" />
 
 ---
 
