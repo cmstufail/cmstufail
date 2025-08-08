@@ -39,6 +39,12 @@
 
 ---
 
+## 📬 Reach Me Out
+
+| 📧 Email | 🔗 LinkedIn | 🐱 GitHub |
+| -------- | ----------- | --------- |
+| [youremail@example.com](mailto:youremail@example.com) | [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile) | [github.com/yourusername](https://github.com/yourusername) |
+
 <!-- Top Languages -->
 <h2>🌐 Top Languages</h2>
 <p align="center">
