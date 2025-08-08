@@ -1,7 +1,5 @@
 <!-- Profile Header -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/12345678/your-uploaded-image.png" alt="Banner" />
-</p>
+<img width="2000" height="600" alt="Image" src="https://github.com/user-attachments/assets/6bdd33b4-66ec-4275-92ea-f1600021daa8" />
 
 ---
 
