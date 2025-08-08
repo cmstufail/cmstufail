@@ -1,9 +1,6 @@
 <!-- Profile Header -->
-<img width="2000" height="600" alt="Image" src="https://github.com/Programming-Hero-Web-Course4/b11a10-client-side-cmstufail/issues/1#issue-3303414541" style="border-radius: 20px;" />
-https://github.com/Programming-Hero-Web-Course4/b11a10-client-side-cmstufail/issues/1#issue-3303414541
+<img width="2000" height="600" alt="Image" src="https://github.com/user-attachments/assets/6bdd33b4-66ec-4275-92ea-f1600021daa8" style="border-radius: 20px;" />
 
-
-https://github.com/user-attachments/assets/6bdd33b4-66ec-4275-92ea-f1600021daa8
 
 ---
 
