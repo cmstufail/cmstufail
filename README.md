@@ -28,19 +28,8 @@
 
 ---
 
-<!-- Contact & Social Links -->
-<p align="center">
-  <a href="mailto:cmstufail@gmail.com">
-    <img src="https://img.shields.io/badge/Email-cmstufail@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/cmstufail" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
-
-
 <!-- Skills -->
-<h4>💻 Skills & Technologies</h4>
+<h4>💻 Technologies that I know</h4>
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -54,6 +43,18 @@
 </p>
 
 ---
+
+<!-- Contact & Social Links -->
+
+<p align="center">
+  <a href="mailto:cmstufail@gmail.com">
+    <img src="https://img.shields.io/badge/Email-cmstufail@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/cmstufail" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+----
 
 <!-- Top Languages -->
 <h4>🌐 Top Languages</h4>
