@@ -51,18 +51,6 @@
 
 ---
 
-<!-- Contact & Social Links -->
-<p align="center">
-  <a href="mailto:cmstufail@gmail.com">
-    <img src="https://img.shields.io/badge/Email-cmstufail@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/cmstufail" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
-
----
-
 <!-- Footer -->
 <p align="center">
   🚀 Passionate about building scalable web applications and learning new technologies every day.
