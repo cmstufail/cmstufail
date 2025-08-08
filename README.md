@@ -1,8 +1,6 @@
 <!-- Profile Header -->
-<p>
-  <img width="2000" height="600" alt="Image" 
-  src="https://user-images.githubusercontent.com/12345678/abcd1234-banner.png" 
-  style="border-radius: 15px;" />
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/12345678/your-uploaded-image.png" alt="Banner" />
 </p>
 
 ---
