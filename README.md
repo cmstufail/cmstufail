@@ -38,12 +38,12 @@
 
 ---
 
-<!-- GitHub Stats -->
-<h2>📊 GitHub Stats</h2>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cmstufail&show_icons=true&theme=radical" alt="GitHub Stats" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cmstufail&theme=radical" alt="GitHub Streak" height="150" />
-</p>
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=cmstufail&show_icons=true&theme=tokyonight&hide_border=true)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=cmstufail&layout=compact&theme=tokyonight&hide_border=true)  
+![](https://github-readme-streak-stats.herokuapp.com/?user=cmstufail&theme=tokyonight&hide_border=true)
+
 
 ---
 
