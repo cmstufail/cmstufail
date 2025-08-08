@@ -16,7 +16,7 @@
 
 
 <!-- Skills -->
-<h2>💻 Skills & Technologies</h2>
+<h4>💻 Skills & Technologies</h4>
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -32,14 +32,14 @@
 ---
 
 <!-- Current Stats -->
-<h2>📈 Current Stats</h2>
+<h4>📈 Current Stats</h4>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=cmstufail&theme=radical" alt="GitHub Streak" height="150" />
 </p>
 ---
 
 <!-- Top Languages -->
-<h2>🌐 Top Languages</h2>
+<h4>🌐 Top Languages</h4>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cmstufail&layout=compact&theme=radical" alt="Top Languages" />
 </p>
