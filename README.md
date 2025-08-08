@@ -131,7 +131,7 @@ If you want to run this project on your computer, follow the steps below:
 
 1.  First clone the repository:
     ```bash
-    git clone []
+    git clone [https://github.com/cmstufail/medical-appointment-booking-application]
     ```
 2.  Go to the project directory:
     ```bash
