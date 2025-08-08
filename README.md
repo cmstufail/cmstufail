@@ -1,10 +1,7 @@
 <!-- Profile Header -->
-<p align="center">
-  <img width="2000" height="600" alt="Image"
-    src="https://private-user-images.githubusercontent.com/133388301/475846768-cef605f8-a636-42db-9e88-4fde4aecdc37.png?jwt=...পূরণ"
-    style="border-radius: 15px; display: block; margin: 0 auto;"
-  />
-</p>
+<img width="2000" height="600" alt="Image" 
+  src="https://user-images.githubusercontent.com/12345678/abcd1234-banner.png" 
+  style="border-radius: 15px;" />
 
 ---
 
