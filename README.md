@@ -91,7 +91,63 @@ If you want to run this project on your computer, follow the steps below:
     ```
 5.  Visit `http://localhost:5173` (or whatever port you want to use) in your browser.
 
+
 ## Live Project & Resources
 
 * **Live Project Link:** [https://benevolent-phoenix-1fa907.netlify.app]
+* **Dependency List:** All required packages are mentioned in the `package.json` file.
+* ---
+
+* 
+* # Medical Appointment Booking Application
+
+![Medical App Screenshot](https://i.ibb.co.com/G431z8CZ/medical-appointment-booking-application.png)
+## Brief introduction of the project
+
+Medical Appointment Booking Application is a modern application that helps patients easily book appointments with doctors. It is a single-page application (SPA) built using **React** And the development process has been accelerated with **Vite**. **Tailwind CSS** and **DaisyUI** component libraries have been used for attractive and responsive UI.
+## Key Features (Core Features)
+
+* **Dynamic User Interface:** A powerful and easy-to-use UI has been created using React's component-based architecture.
+* **Easy Appointment Booking:** The user is given the facility to book an appointment very easily by following a few steps.
+* **Attractive Design:** The project design is made modern, clean, and responsive using Tailwind CSS and DaisyUI.
+* **Routing:** `react-router-dom` is used to ensure seamless navigation between different pages of the application.
+* **Notifications:** Notifications about important events (e.g. appointment booking) are shown to the user using `react-toastify`.
+
+## Technologies Used
+
+* **Frontend:**
+    * **React:** The core library used for creating user interfaces.
+    * **Vite:** Fast build tool and development server.
+    * **Tailwind CSS:** Utility-first CSS framework.
+    * **DaisyUI:** Component library based on Tailwind CSS.
+    * **react-router-dom:** Used for client-side routing.
+    * **react-toastify:** To show notifications.
+    * **recharts:** For data visualization (if there is a dashboard).
+    * **react-countup:** For creating counter animations.
+
+## Guidelines for running projects locally
+
+If you want to run this project on your computer, follow the steps below:
+
+1.  First clone the repository:
+    ```bash
+    git clone [https://github.com/your-username/medical-appointment-booking-application.git](https://github.com/your-username/medical-appointment-booking-application.git)
+    ```
+2.  Go to the project directory:
+    ```bash
+    cd medical-appointment-booking-application
+    ```
+3.  Install the required packages or dependencies:
+    ```bash
+    npm install
+    ```
+4.  Launch the project:
+    ```bash
+    npm run dev
+    ```
+5.  Visit `http://localhost:5173` (or whatever port you want to use) in your browser.
+
+## Live Project & Resources
+
+* **Live Project Link:** [https://docktalkbd.netlify.app/]
 * **Dependency List:** All required packages are mentioned in the `package.json` file.
