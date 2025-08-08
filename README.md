@@ -31,11 +31,10 @@
 
 ---
 
-<!-- recent stats -->
+<!-- Current Stats -->
+<h2>📈 Current Stats</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cmstufail&theme=github&hide=stars,prs,issues,contribs&custom_title=Total%20Contributions" alt="cmstufail's total contributions" />
-  <img src="https://github-readme-stats.vercel.app/api?username=cmstufail&theme=github&hide=stars,prs,issues,contribs&custom_title=Longest%20Streak" alt="cmstufail's longest streak" />
-  <img src="https://github-readme-stats.vercel.app/api?username=cmstufail&theme=github&hide=stars,prs,issues,contribs&custom_title=Current%20Streak" alt="cmstufail's current streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cmstufail&theme=radical" alt="GitHub Streak" height="150" />
 </p>
 ---
 
