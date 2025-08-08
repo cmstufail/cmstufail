@@ -1,7 +1,11 @@
 <!-- Profile Header -->
-<p align="center" style="border-radius: 15px;">
-  <img width="2000" height="600" alt="Image" src="https://github.com/user-attachments/assets/e64a9fdf-8f43-4a4d-97f1-9318b60093dc" />
+<p align="center">
+  <img width="2000" height="600" alt="Image"
+    src="https://private-user-images.githubusercontent.com/133388301/475846768-cef605f8-a636-42db-9e88-4fde4aecdc37.png?jwt=...পূরণ"
+    style="border-radius: 15px; display: block; margin: 0 auto;"
+  />
 </p>
+
 
 ---
 
