@@ -75,7 +75,7 @@ If you want to run this project on your computer, follow the steps below:
 
 1.  First clone the repository:
     ```bash
-    git clone [https://github.com/your-username/auction-gallery.git](https://github.com/your-username/auction-gallery.git)
+    git clone [https://github.com/cmstufail/auction-gallery]
     ```
 2. Go to the project directory:
     ```bash
@@ -93,5 +93,5 @@ If you want to run this project on your computer, follow the steps below:
 
 ## Live Project & Resources
 
-* **Live Project Link:** [Enter your project's live link here]
+* **Live Project Link:** [https://benevolent-phoenix-1fa907.netlify.app]
 * **Dependency List:** All required packages are mentioned in the `package.json` file.
