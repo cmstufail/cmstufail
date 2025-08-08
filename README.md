@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <p align="center">
-  <img width="2000" height="600" alt="Image" src="https://github.com/user-attachments/assets/e64a9fdf-8f43-4a4d-97f1-9318b60093dc" />
+  <img width="2000" height="600" alt="Image" src="https://github.com/user-attachments/assets/e64a9fdf-8f43-4a4d-97f1-9318b60093dc" style="border-radius: 15px;" />
 </p>
 
 ---
