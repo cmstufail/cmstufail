@@ -1,7 +1,6 @@
 <!-- Profile Header -->
 <img width="2000" height="600" alt="Image" src="https://github.com/user-attachments/assets/6bdd33b4-66ec-4275-92ea-f1600021daa8" style="border-radius: 20px;" />
 
-
 ---
 
 <!-- Current Stats -->
@@ -61,17 +60,8 @@
     <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
-----
-
-<!-- Top Languages -->
-<h4>🌐 Top Languages</h4>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cmstufail&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
 
 ---
-
 
 <!-- Footer -->
 <p align="center">
