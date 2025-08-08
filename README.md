@@ -4,10 +4,10 @@
 ---
 
 
-<!-- Current Stats -->
 <h4>📈 Current Stats</h4>
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cmstufail&theme=radical" alt="GitHub Streak" height="150" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=cmstufail&show_icons=true&theme=default&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cmstufail&layout=compact&hide_border=true" />
 </p>
 
 ---
