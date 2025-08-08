@@ -155,7 +155,7 @@ If you want to run this project on your computer, follow the steps below:
 
 App Orbit - A full-fledged e-commerce application
 
-[App orbit Screenshot](https://i.ibb.co.com/bj0BNypY/Screenshot-122.png)
+![Auction Gallery Screenshot](https://i.ibb.co.com/bj0BNypY/Screenshot-122.png)
 Brief introduction of the project
 App Orbit is a full-fledged e-commerce application that provides a modern and easy shopping experience for customers. This project is divided into two main parts:
 
