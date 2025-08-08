@@ -13,7 +13,7 @@
 ---
 
 <!-- Reach me out -->
-<h2 align="center">📬 Reach me out</h2>
+<h2>📬 Reach me out</h2>
 <p align="center">
   <a href="https://www.linkedin.com/in/cmstufail" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
