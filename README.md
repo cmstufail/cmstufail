@@ -5,11 +5,11 @@
 ---
 
 ## **📌 About Me**
-- 🔭 I’m currently working on **[Project Name]**
-- 🌱 I’m learning **[Technology Name]**
+- 🔭 I’m currently working on **[Portfolio Website]**
+- 🌱 I’m learning **[Next.js]**
 - 👯 I’m looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **Web Development, JavaScript, etc.**
-- 📫 How to reach me: **your.email@example.com**
+- 📫 How to reach me: **cmstufail@gmail.com**
 
 ---
 
