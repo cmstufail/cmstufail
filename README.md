@@ -96,7 +96,6 @@ If you want to run this project on your computer, follow the steps below:
 
 * **Live Project Link:** [https://benevolent-phoenix-1fa907.netlify.app]
 * **Dependency List:** All required packages are mentioned in the `package.json` file.
-
   
  --- 
  <br/> 
