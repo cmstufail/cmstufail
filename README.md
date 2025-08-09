@@ -27,7 +27,7 @@
 
 ## **📊 GitHub Stats**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cmstufail&show_icons=true&theme=radical" width="30%" height="125px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=cmstufail&show_icons=true&theme=radical" width="30%" height="120px" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cmstufail&layout=compact&theme=radical" width="30%" height="120px" />
 </p>
 
