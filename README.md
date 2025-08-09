@@ -5,7 +5,7 @@
 ---
 
 ## **📌 About Me**
-- 🔭 I’m working on **[a tourism website]**
+- 🔭 I’m working on a **[tourism website]**
 - 🌱 I’m exploring **[Next.js]**
 - 👯 I’m looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **Web Development, JavaScript, etc.**
