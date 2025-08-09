@@ -16,10 +16,11 @@
 <p align="center">
 <!--   <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nextjs,nodejs,express,mongodb,firebase,git,github,vscode,postman" /> -->
  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nodejs,express,mongodb,firebase,vscode" />
-
+<p/>
+---
   
 <!-- GitHub Stats -->
-<h2>📊 GitHub Stats</h2>
+## **📊 Tech Stack**
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=cmstufail&show_icons=true&theme=radical" alt="GitHub Stats" height="150" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=cmstufail&theme=radical" alt="GitHub Streak" height="150" />
