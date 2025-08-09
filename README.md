@@ -96,10 +96,11 @@ If you want to run this project on your computer, follow the steps below:
 
 * **Live Project Link:** [https://benevolent-phoenix-1fa907.netlify.app]
 * **Dependency List:** All required packages are mentioned in the `package.json` file.
-* ---
+ ---
+ 
 
-* 
-* # Medical Appointment Booking Application
+ 
+ # Medical Appointment Booking Application
 
 ![Medical App Screenshot](https://i.ibb.co.com/G431z8CZ/medical-appointment-booking-application.png)
 ## Brief introduction of the project
