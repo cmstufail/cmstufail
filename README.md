@@ -25,13 +25,6 @@
 
 ---
 
-## **📊 GitHub Stats**
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cmstufail&show_icons=true&theme=radical" width="45%" alt="Github Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cmstufail&layout=compact&theme=radical" width="45%" alt="Top Languages" />
-</div>
-
-
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nextjs,nodejs,express,mongodb,firebase,git,github,vscode,postman" />
