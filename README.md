@@ -5,8 +5,8 @@
 ---
 
 ## **📌 About Me**
-- 🔭 I’m currently working on **[Portfolio Website]**
-- 🌱 I’m learning **[Next.js]**
+- 🔭 I’m working on **[a tourism website]**
+- 🌱 I’m exploring **[Next.js]**
 - 👯 I’m looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **Web Development, JavaScript, etc.**
 - 📫 How to reach me: **cmstufail@gmail.com**
@@ -27,8 +27,8 @@
 
 ## **📊 GitHub Stats**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cmstufail&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cmstufail&layout=compact&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=cmstufail&show_icons=true&theme=radical" width="48%" height="200px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cmstufail&layout=compact&theme=radical" width="48%" height="200px" />
 </p>
 
 ---
