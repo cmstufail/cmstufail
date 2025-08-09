@@ -98,8 +98,8 @@ If you want to run this project on your computer, follow the steps below:
 * **Dependency List:** All required packages are mentioned in the `package.json` file.
 
   
- ---
- 
+ --- 
+ <br/> 
 
  
  # Medical Appointment Booking Application
@@ -155,6 +155,7 @@ If you want to run this project on your computer, follow the steps below:
 * **Live Project Link:** [https://docktalkbd.netlify.app]
 * **Dependency List:** All required packages are mentioned in the `package.json` file.
 ---
+<br/>
 
 # App Orbit - A full-fledged e-commerce application
 
