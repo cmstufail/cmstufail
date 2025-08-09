@@ -10,7 +10,6 @@
 - 👯 I’m looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **Web Development, JavaScript, etc.**
 - 📫 How to reach me: **cmstufail@gmail.com**
-
 ---
 
 ## **🛠 Tech Stack**
